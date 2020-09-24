@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29519.87
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AgileAppNewSep", "AgileAppNewSep\AgileAppNewSep.csproj", "{5A4268F2-2820-493A-9222-D2C00073B8D9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5A4268F2-2820-493A-9222-D2C00073B8D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A4268F2-2820-493A-9222-D2C00073B8D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A4268F2-2820-493A-9222-D2C00073B8D9}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{5A4268F2-2820-493A-9222-D2C00073B8D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A4268F2-2820-493A-9222-D2C00073B8D9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5A4268F2-2820-493A-9222-D2C00073B8D9}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6321D9CE-74A3-4719-8974-DEE78D93D588}
+	EndGlobalSection
+EndGlobal
